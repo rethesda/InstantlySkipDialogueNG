@@ -13,4 +13,4 @@ This is a [CommonLibSSE](https://github.com/libxse/commonlibsse) port of the `in
 
 ## License
 
-Since version 2.0.0, this plugin is licensed under the [GNU General Public License version 3](LICENSE) with the [Modding Exception and the GPL-3.0 Linking Exception (with Corresponding Source)](EXCEPTIONS.md). Older versions are licensed under the [MIT License](MIT-LICENSE).
+Since version 2.0.0, this plugin is licensed under the [GNU General Public License version 3](LICENSE) with the [Modding Exception and the GPL-3.0 Linking Exception (with Corresponding Source)](EXCEPTIONS). Older versions are licensed under the [MIT License](MIT-LICENSE).
